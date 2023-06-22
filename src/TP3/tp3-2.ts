@@ -38,7 +38,7 @@ listaTareas.agregarTarea("Cortar el pasto");
 
 
 listaTareas.mostrarTareas();
- console.log("2");
+ console.log(2);
 
 
 
