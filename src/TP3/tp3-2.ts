@@ -1,5 +1,3 @@
-import { Console } from "console";
-
 class ListaTareas {
 
     tareas: {Id: number; Nombre: string; Estado: string }  [] = [];
